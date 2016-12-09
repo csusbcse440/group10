@@ -1,0 +1,70 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mespa\Desktop\PinBrawl_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\mespa\Desktop\PinBrawl_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mespa\Desktop\PinBrawl_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.385087 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2618 -> priority: 1 
+  Thread -> id: 1384 -> priority: 1 
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1353)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.359904 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 4.086521 ms (FindLiveObjects: 0.039901 ms CreateObjectMapping: 0.019753 ms MarkObjects: 0.230321 ms  DeleteObjects: 3.785089 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.666864 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1282.
+Total: 0.702025 ms (FindLiveObjects: 0.098765 ms CreateObjectMapping: 0.039506 ms MarkObjects: 0.546765 ms  DeleteObjects: 0.016197 ms)
+
+Platform assembly: C:\Users\mespa\Desktop\PinBrawl_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.654914 ms
+
+Unloading 231 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 4.373336 ms (FindLiveObjects: 0.046222 ms CreateObjectMapping: 0.030419 ms MarkObjects: 0.461037 ms  DeleteObjects: 3.834867 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521876 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.508839 ms (FindLiveObjects: 0.020938 ms CreateObjectMapping: 0.008691 ms MarkObjects: 0.233481 ms  DeleteObjects: 0.244543 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.860445 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 5.203757 ms (FindLiveObjects: 0.047802 ms CreateObjectMapping: 0.026469 ms MarkObjects: 0.397827 ms  DeleteObjects: 4.730472 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.516741 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 801.
+Total: 0.685432 ms (FindLiveObjects: 0.092444 ms CreateObjectMapping: 0.038716 ms MarkObjects: 0.536099 ms  DeleteObjects: 0.016987 ms)
+
